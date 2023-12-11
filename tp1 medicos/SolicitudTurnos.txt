@@ -1,0 +1,7 @@
+Hugo Gonzales        20 OSDE            444321 Cardiologia          01 T
+Lucas Fiscella       20 ANSES           124211 Cardiologia          01 T
+Felipe Femenia       20 OSPUBA          123451 Cardiologia          01 T
+Tomas Pralong        45 IOMA            654321 Gastroenterologia    13 T
+Bautista Iglesias    33 PAMI            644351 Endocrinologia       21 M
+Juan Vivas           50 OSECAC          162534 Hematologia          05 N
+Agustina Rey         19 OSTPRA          142365 Ginecologia          03 T

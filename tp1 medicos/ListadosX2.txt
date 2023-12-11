@@ -1,0 +1,8 @@
+ApeNom:              O.Soc:         NroCred: Especialidad:     Dia:Tur:Medico:
+Hugo Gonzales        OSDE            444321 Cardiologia          01 T Luis García         
+Lucas Fiscella       ANSES           124211 Cardiologia          01 T Luis García         
+Felipe Femenia       OSPUBA          123451 Cardiologia          01 T Luis García         
+Tomas Pralong        IOMA            654321 Gastroenterologia    13 T Juan Torres         
+Bautista Iglesias    PAMI            644351 Endocrinologia       21 M Valentina López     
+Juan Vivas           OSECAC          162534 Hematologia          05 N Andrés González     
+Agustina Rey         OSTPRA          142365 Ginecologia          03 T Martín Fernández    
